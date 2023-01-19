@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_17_Renombrador", "M3_17_Renombrador\M3_17_Renombrador.csproj", "{CE85CD2A-C00E-4833-9D76-0EAE0A01C64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE85CD2A-C00E-4833-9D76-0EAE0A01C64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE85CD2A-C00E-4833-9D76-0EAE0A01C64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE85CD2A-C00E-4833-9D76-0EAE0A01C64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE85CD2A-C00E-4833-9D76-0EAE0A01C64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63CAF60-CFDF-45F6-845C-DB351249C0EA}
+	EndGlobalSection
+EndGlobal

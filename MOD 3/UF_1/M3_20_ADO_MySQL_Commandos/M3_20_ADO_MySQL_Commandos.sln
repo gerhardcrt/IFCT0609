@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_30_ADO_MySQL_Commandos", "M3_30_ADO_MySQL_Commandos\M3_30_ADO_MySQL_Commandos.csproj", "{D248A6F9-976E-49BE-AEC7-7E987CE0D62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D248A6F9-976E-49BE-AEC7-7E987CE0D62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D248A6F9-976E-49BE-AEC7-7E987CE0D62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D248A6F9-976E-49BE-AEC7-7E987CE0D62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D248A6F9-976E-49BE-AEC7-7E987CE0D62A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56FB3B46-FD94-4C48-856D-5D7CBF62415B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_CondicionalMultipleSwitch", "27_CondicionalMultipleSwitch\27_CondicionalMultipleSwitch.csproj", "{BB22FA3A-F63B-45A0-A179-F4E8083288D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB22FA3A-F63B-45A0-A179-F4E8083288D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB22FA3A-F63B-45A0-A179-F4E8083288D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB22FA3A-F63B-45A0-A179-F4E8083288D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB22FA3A-F63B-45A0-A179-F4E8083288D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00E6DBC-54EB-438D-BF79-3199995E0696}
+	EndGlobalSection
+EndGlobal

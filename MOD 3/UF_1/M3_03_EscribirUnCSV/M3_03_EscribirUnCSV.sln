@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_03_EscribirUnCSV", "M3_03_EscribirUnCSV\M3_03_EscribirUnCSV.csproj", "{3CEE1884-2F89-411D-8BB2-889802E7B8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CEE1884-2F89-411D-8BB2-889802E7B8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEE1884-2F89-411D-8BB2-889802E7B8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEE1884-2F89-411D-8BB2-889802E7B8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEE1884-2F89-411D-8BB2-889802E7B8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6B2F24-2C13-45B2-B29A-4E829BCE2A7B}
+	EndGlobalSection
+EndGlobal

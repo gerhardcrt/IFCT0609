@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_EnumerandosFlags", "31_EnumerandosFlags\31_EnumerandosFlags.csproj", "{DC547787-4351-4685-9C6C-77DDB10CDC46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC547787-4351-4685-9C6C-77DDB10CDC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC547787-4351-4685-9C6C-77DDB10CDC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC547787-4351-4685-9C6C-77DDB10CDC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC547787-4351-4685-9C6C-77DDB10CDC46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CACF30D1-FA2E-4BCE-809B-1ECFA984FB50}
+	EndGlobalSection
+EndGlobal

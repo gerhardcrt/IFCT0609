@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_U2_30_RegistroJornadaMySQL_POO", "M3_U2_30_RegistroJornadaMySQL_POO\M3_U2_30_RegistroJornadaMySQL_POO.csproj", "{AF1B6DF3-E2CA-41F0-B30E-C7C5E83FCBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1B6DF3-E2CA-41F0-B30E-C7C5E83FCBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1B6DF3-E2CA-41F0-B30E-C7C5E83FCBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1B6DF3-E2CA-41F0-B30E-C7C5E83FCBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1B6DF3-E2CA-41F0-B30E-C7C5E83FCBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0637D5C-9AC3-458A-9CAE-F74BAB1E7173}
+	EndGlobalSection
+EndGlobal

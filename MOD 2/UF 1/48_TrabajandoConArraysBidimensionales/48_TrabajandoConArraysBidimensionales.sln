@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48_TrabajandoConArraysBidimensionales", "48_TrabajandoConArraysBidimensionales\48_TrabajandoConArraysBidimensionales.csproj", "{35A82C1F-B15C-4175-A517-2669CA79E15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A82C1F-B15C-4175-A517-2669CA79E15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A82C1F-B15C-4175-A517-2669CA79E15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A82C1F-B15C-4175-A517-2669CA79E15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A82C1F-B15C-4175-A517-2669CA79E15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69141E44-6BBA-4D1B-840F-D293548A027E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EG07_ForzandoColecciones", "EG07_ForzandoColecciones\EG07_ForzandoColecciones.csproj", "{1DD04087-98EA-4E0D-807F-1FFC7693CEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD04087-98EA-4E0D-807F-1FFC7693CEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD04087-98EA-4E0D-807F-1FFC7693CEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD04087-98EA-4E0D-807F-1FFC7693CEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD04087-98EA-4E0D-807F-1FFC7693CEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7156E3A5-FB01-498A-ADB7-435F92AD9EC1}
+	EndGlobalSection
+EndGlobal
